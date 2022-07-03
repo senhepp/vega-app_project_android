@@ -33,7 +33,7 @@ which is responsible for authorization, cookie management and sending requests t
  
 2.	графическая часть приложения, состоящая из трех основных частей:
 
-![graphic interface](https://drive.google.com/file/d/1iXG6Kyf5JyteAu378xcHH6FlAvRiKOwz/view?usp=sharing "graphic interface")
+![graphic interface](https://drive.google.com/file/d/1iXG6Kyf5JyteAu378xcHH6FlAvRiKOwz/view "Орк")
 
 - header part;
 - search bar;
