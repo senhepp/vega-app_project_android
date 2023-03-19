@@ -14,7 +14,7 @@ The task was to develop a cross-platform application based on the Flutter framew
 displaying and filtering a list of documents, which sends a request to the presented API,
 receives information about stored documents as a response and displays a list of them on the application screen.
 
-- link to department's API is [here](vega.fcyb.mirea.ru/intellectphp/)
+- link to department's API is [here](vega.fcyb.mirea.ru/intellect.php/)
 
 ## Development tools used
 
